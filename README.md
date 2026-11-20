@@ -1,3 +1,12 @@
+## Copyright & Usage
+
+Copyright © 2026 Radha.
+
+All rights reserved. This repository is publicly available for viewing
+and evaluation purposes only. No permission is granted to copy, reuse,
+modify, distribute, or commercially use this code without prior written
+permission from the copyright owner.
+
 # PM Portfolio Website
 
 A professional Product Management portfolio built with Lovable to showcase my experience, certifications, and product projects.
